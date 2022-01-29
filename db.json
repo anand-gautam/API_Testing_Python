@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "userName": "Henry",
+      "profileId": 1,
+      "id": 1,
+      "Budget": 200
+    },
+    {
+      "userName": "Mcdonald",
+      "profileId": 2,
+      "id": 2,
+      "Budget": 500
+    },
+    {
+      "userName": "Kiril",
+      "profileId": 3,
+      "id": 3,
+      "Budget": 100
+    },
+    {
+      "userName": "snow",
+      "profileId": 1,
+      "id": 4,
+      "Budget": 100
+    },
+    {
+      "userName": "mike",
+      "profileId": 2,
+      "id": 5,
+      "Budget": 100
+    },
+    {
+      "userName": "Kyle",
+      "profileId": 3,
+      "id": 6,
+      "Budget": 200
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Americas and rest",
+      "id": 1
+    },
+    {
+      "name": "eurasia",
+      "id": 2
+    },
+    {
+      "name": "poles",
+      "id": 3
+    }
+  ]
+}
